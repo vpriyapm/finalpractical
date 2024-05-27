@@ -4,10 +4,10 @@ int main()
 {
     int num1, num2, sum;
 
-    printf("10: ");
+    printf("20: ");
     scanf("%d", &num1);
 
-    printf("20: ");
+    printf("30: ");
     scanf("%d", &num2);
 
     sum = num1 + num3;
